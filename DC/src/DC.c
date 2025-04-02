@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "../inc/DC.h"
 
 int main(void)
 {

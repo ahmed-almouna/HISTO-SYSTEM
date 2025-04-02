@@ -3,4 +3,4 @@ project(DP_2 C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(DP_2 main.c)
+add_executable(DP_2 src/DP-2.c)

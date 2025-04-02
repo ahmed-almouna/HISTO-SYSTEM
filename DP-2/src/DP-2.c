@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "../inc/DP-2.h"
 
 int main(void)
 {
